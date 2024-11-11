@@ -40,4 +40,4 @@ Evaluation
 + 'epoch': 1.98
 
   + 'eval_loss': 0.7539224624633789,
-  + 'eval_accuracy': 0.6328571200370789
+  + 'eval_accuracy': 0.7928571200370789
